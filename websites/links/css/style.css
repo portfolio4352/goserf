@@ -57,3 +57,11 @@ thead td {
 tr:hover {
     background-color: #ededed;
 }
+
+tbody tr td:nth-child(1) {
+    width: 300px;
+}
+
+tbody tr td:nth-child(3) {
+    width: 400px;
+}
